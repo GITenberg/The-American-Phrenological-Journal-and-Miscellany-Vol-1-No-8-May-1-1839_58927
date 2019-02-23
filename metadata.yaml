@@ -1,0 +1,28 @@
+_repo: The-American-Phrenological-Journal-and-Miscellany-Vol-1-No-8-May-1-1839_58927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Allen, Nathan H. (Nathan Hale)
+    alias: Allen, N. H. (Nathan Hale)
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '233'
+    url: http://www.gutenberg.org/2009/agents/233
+description: ''
+gutenberg_issued: '2019-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The American Phrenological Journal and Miscellany, Vol. 1. No. 8, May 1, 1839
+url: http://www.gutenberg.org/ebooks/58927
